@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <defs>
+    <linearGradient id="p2Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" rx="12" fill="url(#p2Grad)"/>
+  <circle cx="300" cy="210" r="140" fill="rgba(56,189,248,0.1)"/>
+  
+  <!-- Jersey Mockup -->
+  <g transform="translate(160, 45)">
+    <path d="M 90 35 L 140 15 L 190 35 L 265 85 L 230 145 L 200 125 L 200 310 L 80 310 L 80 125 L 50 145 L 15 85 Z" fill="#0284c7" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M 115 25 C 115 50, 165 50, 165 25" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+    
+    <!-- Sport Diagonal Graphic -->
+    <polygon points="80,140 160,310 140,310 80,180" fill="#facc15"/>
+    <text x="140" y="200" font-family="'Plus Jakarta Sans', Impact, sans-serif" font-weight="900" font-size="60" fill="#ffffff" text-anchor="middle">07</text>
+    <text x="140" y="115" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="800" font-size="12" fill="#fff" text-anchor="middle">MITREKA SATATA</text>
+  </g>
+
+  <!-- Overlay project badge -->
+  <rect x="25" y="375" width="550" height="50" rx="8" fill="rgba(15, 23, 42, 0.92)" stroke="rgba(255,255,255,0.1)"/>
+  <text x="45" y="405" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="800" font-size="14" fill="#ffffff">Jersey Tim Futsal SMAN 1 Malang</text>
+  <text x="555" y="405" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="12" fill="#38bdf8" text-anchor="end">24 Stel • Dryfit Milano • Full Sublim</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <defs>
+    <linearGradient id="bgKomi" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142217"/>
+      <stop offset="100%" stop-color="#164e32"/>
+    </linearGradient>
+    <linearGradient id="shirtKomi" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#047857"/>
+      <stop offset="100%" stop-color="#065f46"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" rx="16" fill="url(#bgKomi)"/>
+  
+  <g fill="rgba(255,255,255,0.05)">
+    <circle cx="50" cy="50" r="3"/><circle cx="100" cy="50" r="3"/><circle cx="150" cy="50" r="3"/>
+    <circle cx="450" cy="380" r="3"/><circle cx="500" cy="380" r="3"/><circle cx="550" cy="380" r="3"/>
+  </g>
+
+  <circle cx="300" cy="225" r="150" fill="none" stroke="#34d399" stroke-width="2" opacity="0.3" stroke-dasharray="6 6"/>
+  <circle cx="300" cy="225" r="120" fill="rgba(52, 211, 153, 0.08)"/>
+
+  <!-- T-Shirt Komunitas -->
+  <g transform="translate(160, 60)">
+    <path d="M 90 35 L 140 15 L 190 35 L 265 85 L 230 145 L 200 125 L 200 310 L 80 310 L 80 125 L 50 145 L 15 85 Z" fill="url(#shirtKomi)" stroke="#34d399" stroke-width="2"/>
+    <path d="M 115 25 C 115 50, 165 50, 165 25" fill="#065f46" stroke="#34d399" stroke-width="2.5"/>
+    
+    <!-- Vintage Mountain / Community Badge on Chest -->
+    <path d="M 140 100 L 175 140 L 105 140 Z" fill="#facc15" stroke="#fff" stroke-width="1.5"/>
+    <path d="M 125 140 L 140 120 L 155 140 Z" fill="#047857"/>
+    <circle cx="140" cy="115" r="4" fill="#ef4444"/>
+    <rect x="100" y="148" width="80" height="18" rx="4" fill="#0f2b48"/>
+    <text x="140" y="161" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="800" font-size="9" fill="#facc15" text-anchor="middle">MALANG RIDERS</text>
+  </g>
+
+  <!-- Community / Unity icon -->
+  <g transform="translate(410, 130)">
+    <circle cx="35" cy="35" r="30" fill="rgba(255,255,255,0.1)" stroke="#34d399" stroke-width="2"/>
+    <circle cx="35" cy="25" r="8" fill="#34d399"/>
+    <circle cx="20" cy="32" r="6" fill="#a7f3d0"/>
+    <circle cx="50" cy="32" r="6" fill="#a7f3d0"/>
+    <path d="M 23 48 C 23 40, 47 40, 47 48" fill="#34d399"/>
+  </g>
+
+  <!-- Floating Tags -->
+  <g transform="translate(60, 350)">
+    <rect width="210" height="38" rx="19" fill="rgba(15, 23, 42, 0.9)" stroke="#34d399" stroke-width="1.5"/>
+    <text x="105" y="24" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="13" fill="#fff" text-anchor="middle">🤝 Sablon Awet Anti Pecah</text>
+  </g>
+  <g transform="translate(330, 350)">
+    <rect width="210" height="38" rx="19" fill="rgba(15, 23, 42, 0.9)" stroke="#facc15" stroke-width="1.5"/>
+    <text x="105" y="24" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="13" fill="#fff" text-anchor="middle">🔥 Min. Order 12 Pcs</text>
+  </g>
+</svg>

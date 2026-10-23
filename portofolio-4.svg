@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <defs>
+    <linearGradient id="p4Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b0764"/>
+      <stop offset="100%" stop-color="#581c87"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" rx="12" fill="url(#p4Grad)"/>
+  <circle cx="300" cy="210" r="140" fill="rgba(192,132,252,0.1)"/>
+  
+  <!-- T-Shirt Mockup Ekskul -->
+  <g transform="translate(160, 45)">
+    <path d="M 90 35 L 140 15 L 190 35 L 265 85 L 230 145 L 200 125 L 200 310 L 80 310 L 80 125 L 50 145 L 15 85 Z" fill="#4a044e" stroke="#c084fc" stroke-width="2"/>
+    <path d="M 115 25 C 115 50, 165 50, 165 25" fill="#2e1065" stroke="#c084fc" stroke-width="2"/>
+    
+    <!-- Theatre Mask Graphic -->
+    <path d="M 120 110 C 110 130, 110 150, 125 160 C 135 150, 135 125, 120 110 Z" fill="#facc15"/>
+    <path d="M 160 110 C 170 130, 170 150, 155 160 C 145 150, 145 125, 160 110 Z" fill="#e879f9"/>
+    <circle cx="123" cy="125" r="3" fill="#000"/><circle cx="157" cy="125" r="3" fill="#000"/>
+    <path d="M 120 145 Q 125 152, 130 145" stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M 150 150 Q 155 142, 160 150" stroke="#000" stroke-width="2" fill="none"/>
+    <text x="140" y="182" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="900" font-size="10" fill="#fff" text-anchor="middle">TEATER ARWANA</text>
+    <text x="140" y="194" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="8" fill="#facc15" text-anchor="middle">SMKN 4 MALANG</text>
+  </g>
+
+  <!-- Overlay project badge -->
+  <rect x="25" y="375" width="550" height="50" rx="8" fill="rgba(15, 23, 42, 0.92)" stroke="rgba(255,255,255,0.1)"/>
+  <text x="45" y="405" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="800" font-size="14" fill="#ffffff">Kaos Ekskul Teater 'Arwana' SMKN 4 Malang</text>
+  <text x="555" y="405" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="12" fill="#c084fc" text-anchor="end">45 Pcs • Combed 30s • Sablon Plastisol</text>
+</svg>

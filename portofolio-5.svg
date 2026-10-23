@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <defs>
+    <linearGradient id="p5Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#451a03"/>
+      <stop offset="100%" stop-color="#78350f"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" rx="12" fill="url(#p5Grad)"/>
+  <circle cx="300" cy="210" r="140" fill="rgba(245,158,11,0.1)"/>
+  
+  <!-- T-Shirt Mockup DTF / Coffee Brand -->
+  <g transform="translate(160, 45)">
+    <path d="M 90 35 L 140 15 L 190 35 L 265 85 L 230 145 L 200 125 L 200 310 L 80 310 L 80 125 L 50 145 L 15 85 Z" fill="#fffbeb" stroke="#d97706" stroke-width="2"/>
+    <path d="M 115 25 C 115 50, 165 50, 165 25" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+    
+    <!-- DTF Coffee Cup Illustration on Chest -->
+    <rect x="110" y="110" width="60" height="70" rx="12" fill="#78350f"/>
+    <circle cx="140" cy="140" r="18" fill="#fef3c7"/>
+    <path d="M 135 130 Q 140 125, 145 130 Q 140 135, 135 130" stroke="#78350f" stroke-width="2" fill="none"/>
+    <text x="140" y="196" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="900" font-size="9" fill="#78350f" text-anchor="middle">KOPI DAMPIT MALANG</text>
+    <text x="140" y="208" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="8" fill="#b45309" text-anchor="middle">AUTHENTIC ROASTERY</text>
+  </g>
+
+  <!-- Overlay project badge -->
+  <rect x="25" y="375" width="550" height="50" rx="8" fill="rgba(15, 23, 42, 0.92)" stroke="rgba(255,255,255,0.1)"/>
+  <text x="45" y="405" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="800" font-size="14" fill="#ffffff">Kaos Merchandise Kopi Dampit Malang</text>
+  <text x="555" y="405" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="12" fill="#f59e0b" text-anchor="end">80 Pcs • Heavyweight 20s • Sablon DTF</text>
+</svg>
